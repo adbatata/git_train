@@ -1,2 +1,7 @@
 This is a Sample File
+<<<<<<< HEAD
 WALL
+=======
+Wanderlust
+Wunderbar
+>>>>>>> main
